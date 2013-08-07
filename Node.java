@@ -3,7 +3,7 @@
 
 public class Node {
 
-  int b,c,d,e,f,g,h;
+  int b,c,d,e,f,g,h,fr;
     private char character;
     private int state;
     private boolean acceptedState;
