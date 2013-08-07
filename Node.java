@@ -1,8 +1,7 @@
 
-
 public class Node {
 
-  int b,c,d,e,f,g,h,fr,dsfd;sdsd;
+  int b,c,d,e,f,g,h,fr,dsfd;sdsd,sddsdds;
     private char character;
     private int state;
     private boolean acceptedState;
