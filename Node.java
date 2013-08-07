@@ -7,6 +7,7 @@ public class Node {
     private int state;
     private boolean acceptedState;
     int a;
+	int b;
     public Node(char character, int state, boolean acceptedState) {
         this.character = character;
         this.state = state;
